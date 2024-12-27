@@ -1,2 +1,5 @@
-# k3
-R package containing data about the Flemish band K3
+# K3
+
+My notes on the Dutch/Flemish band K3
+
+- [heyahmama](https://github.com/richelbilderbeek/heyahmama): R package to work with K3 data
